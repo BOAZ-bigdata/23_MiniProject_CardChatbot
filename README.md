@@ -17,3 +17,6 @@
 - **Project Summary**:  
   - 카드를 추천해주는 챗봇
 
+---
+
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/c7a85486-04dd-4416-a8ad-171df55179af">
