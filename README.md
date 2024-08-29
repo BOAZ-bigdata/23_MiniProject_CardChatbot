@@ -1,29 +1,22 @@
-Project name (회차/기수/연도/부문)
-
-각 용도별로 레포지토리 이름 규칙에 따라 선택하여 작성해주시길 바랍니다.
-세션: 부문+기수_BASE/ADV
-컨퍼런스: con+회차
-미니프로젝트: mini+23기
+23_MiniProject_CardChatbot
+Customized 3D Object Rendering Model Using Nerf-Based DreamGaussian
 
 
 Usage
- 미니프로젝트
+ Session
+ Conference
+ Mini projects
+ Study
 
 Period
-2021.8~2022.9
+2024.8~2024.9
 
 Team
-팀장: 
-위와 같은 방식으로 깃허브 링크를 걸어주시면 됩니다.
-깃허브가 없으신 분들은 기타 블로그, 티스토리, 노션 등 본인을 소개할 수 있는 페이지로 작성하시면 됩니다.
-팀원: 나보아즈, 박보아즈, 이보아즈
+Team Manager: 오영민
+Team Members: 김강민, 김동환, 윤왕규, 박지원
 
 Project Summary
-내용을 요약해주세요.
-
-ETCs
-사용 라이브러리, 버전, ppt 표지 등 자유롭게 작성해주시길 바랍니다.
+카드를 추천해주는 챗봇
 
 
 
-참고: 마크다운 사용법 예시
