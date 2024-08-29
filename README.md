@@ -1,4 +1,4 @@
-### 23 Mini Project: **Customized 3D Object Rendering Model Using Nerf-Based DreamGaussian**
+### 23 Mini Project: **Card Chatbot**
 
 - **Usage**: 
   - [x] Session
