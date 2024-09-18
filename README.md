@@ -1,10 +1,10 @@
 ### 23 Mini Project: **Card Chatbot**
 
 - **Usage**: 
-  - [x] Session
-  - [x] Conference
+  - [ ] Session
+  - [ ] Conference
   - [x] Mini projects
-  - [x] Study
+  - [ ] Study
 
 - **Period**:  
   - 2024.8 ~ 2024.9
